@@ -1,0 +1,38 @@
+{
+    "estudiantes": [
+        {
+            "id": 20198678,
+            "nombre": "Carlos",
+            "apellido": "Cordero"
+        },
+        {
+            "id": "567678888",
+            "nombre": "Juandi",
+            "apellido": "Orellana"
+        }
+    ],
+    "profesores": {
+        "teoria": {
+            "nombre": "Maria Cantos",
+            "edad": 30
+        },
+        "practica": [
+            {
+                "nombre": "Ing. Stephano León",
+                "edad": 27
+            },
+            {
+                "nombre": "Ing. Christopher Vaccaro",
+                "edad": 23
+            },
+            {
+                "nombre": "Ing. Marlon Vaccaro",
+                "edad": 23
+            },
+            {
+                "nombre": "Ing. Doda Vaccaro",
+                "edad": 23
+            }
+        ]
+    }
+}
